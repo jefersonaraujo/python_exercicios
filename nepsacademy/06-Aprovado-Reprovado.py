@@ -16,7 +16,7 @@ resposta =''
 
 if media >= 7:
     resposta  ='Aprovado'
-elif media <7 and media >=4:
+elif  media >=4:
     resposta  ='Recuperacao'
 else:
     resposta  ='Reprovado'
